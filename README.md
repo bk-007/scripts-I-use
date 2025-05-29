@@ -2,8 +2,6 @@
 
 This repository contains scripts I use for work and home.
 
-## Scripts
-
 ### 1. ems-gen.py
 
 **Purpose**: Generates a sample Employee Management System Excel workbook with realistic data.
