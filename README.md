@@ -16,10 +16,10 @@ This repository contains scripts I use for work and home.
 
 **Usage**:
 ```bash
-python ems-gen.py [output_file.xlsx]
+python ems-gen.py
 ```
 
-### 1. ems-gen-up.py
+### 2. ems-gen-up.py
 
 **Purpose**: Provides a GUI interface to update and manage Employee Management System Excel workbooks.
 
@@ -32,4 +32,4 @@ python ems-gen.py [output_file.xlsx]
 
 **Usage**:
 ```bash
-python ems-gen-up.py [output_file.xlsx]
+python ems-gen-up.py
